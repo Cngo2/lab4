@@ -12,45 +12,45 @@
 		   <legend>My Info</legend>
 		   
 		   <div>
-		   <label for="firstname">First Name:</label>
-		   <input type="text" id="firstname" name="first_names_inputted">
+		     <label for="firstname">First Name:</label>
+		     <input type="text" id="firstname" name="first_names_inputted">
 		   </div>
 		   
 		   <div>
-		   <label for="lastname">Last Name:</label>
-		   <input type="text" id="lastname" name="last_names_inputted">
+		     <label for="lastname">Last Name:</label>
+		     <input type="text" id="lastname" name="last_names_inputted">
 		   </div>
 		   
 		   <div>
-		   <label for="phonenumber">Phone Number :</label>
-		   <input type="text" id="phonenumber" name="phone_numbers_inputted">
+		     <label for="phonenumber">Phone Number :</label>
+		     <input type="text" id="phonenumber" name="phone_numbers_inputted">
 		   </div>
 		   
 		   <div> 
-		   <label for="emailaddress">Email Address:</label>
-		   <input type="email" id="emailaddress" name="email_addresses_inputted">
+		     <label for="emailaddress">Email Address:</label>
+		     <input type="email" id="emailaddress" name="email_addresses_inputted">
 		   </div>
 		   
 		   <div>
 		   <p>Gender:</p>
 		   
-		   <input type="radio" id="male" name="gender_response" value="Male">
-		   <label for="male">Male</label>
-		   <input type="radio" id="female" name="gender_response" value="Female">
-		   <label for="female">Female</label>
+		     <input type="radio" id="male" name="gender_response" value="Male">
+		     <label for="male">Male</label><br>
+		     <input type="radio" id="female" name="gender_response" value="Female">
+		     <label for="female">Female</label><br>
 		   </div>
 		   
 		   <div>
-		   <label for="age">Age:</label>
-		   <select id="age" name="age_response">
-		     <option value="under 18">under 18</option>
-			 <option value="18-24">18-24</option>
-			 <option value="25-34">25 - 34</option>
-			 <option value="35-44">35 - 44</option>
-			 <option value="45-54">45 - 54</option>
-			 <option value="55-64">55 - 64</option>
-			 <option value="65andover">65 and over</option>
-		   </select>
+		     <label for="age">Age:</label>
+		     <select id="age" name="age_response">
+		       <option value="under 18">under 18</option>
+			   <option value="18-24">18-24</option>
+			   <option value="25-34">25 - 34</option>
+			   <option value="35-44">35 - 44</option>
+			   <option value="45-54">45 - 54</option>
+			   <option value="55-64">55 - 64</option>
+			   <option value="65andover">65 and over</option>
+		     </select>
 		   </div>
 		 </fieldset>
 		 
@@ -67,8 +67,8 @@
 		   </div>
  		 
 		   <div>
-		    <label for="comments">Any comments?</label>
-			<textarea id="comments" name="comments_response" placeholder="Enter any comments here"
+		     <label for="comments">Any comments?</label>
+			  <textarea id="comments" name="comments_response" placeholder="Enter any comments here" cols="50" rows="20"></textarea>
 		   </div>
 		 </fieldset>
 		   

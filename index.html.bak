@@ -67,7 +67,7 @@
  		 
 		   <div>
 		     <label for="comments">Any comments?</label><br>
-			  <textarea id="comments" name="comments_response" placeholder="Enter any comments here" cols="20" rows="15"></textarea>
+			  <textarea id="comments" name="comments_response" placeholder="Enter any comments here" cols="40" rows="10"></textarea>
 		   </div>
 		 </fieldset>
 		   

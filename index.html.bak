@@ -22,12 +22,12 @@
 		   </div>
 		   
 		   <div>
-		   <label for="phonenumber">Phone :</label>
+		   <label for="phonenumber">Phone Number :</label>
 		   <input type="text" id="phonenumber" name="phone_numbers_inputted">
 		   </div>
 		   
 		   <div> 
-		   <label for="emailaddress">First Name:</label>
+		   <label for="emailaddress">Email Address:</label>
 		   <input type="email" id="emailaddress" name="email_addresses_inputted">
 		   </div>
 		   
@@ -69,6 +69,7 @@
 		   <div>
 		    <label for="comments">Any comments?</label>
 			<textarea id="comments" name="comments_response" placeholder="Enter any comments here"
+		   </div>
 		 </fieldset>
 		   
 		   <div>
